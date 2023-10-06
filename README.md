@@ -29,4 +29,7 @@ Prácticas Lenguaje de Marcas (1º ASIR)
                 <li>Echamos la mezcla en la sartén y la dejamos 15 min apróx. para que se haga bien.</li>
                 <li>Le damos la vuelta y repetimos.</li>
                 <li>La emplatamos y listo.</li>
+            </ol>
+        </main>
+    </body>
 </html>
